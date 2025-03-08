@@ -60,19 +60,27 @@ Creators of tor, Tor-Browser, OnionShare, Orbot and more
 ### Software in the public interest
 > [SPI](http://www.spi-inc.org/) is a non-profit organization which was founded to help organizations develop and distribute open hardware and software. [...]
 
->SPI acts as a fiscal sponsor to many free and open source projects.
+> SPI acts as a fiscal sponsor to many free and open source projects.
 
 * [Donate via click & pledge to SPI projects](https://co.clickandpledge.com/advanced/default.aspx?wid=34115)
 
 ### critical infrastructure software
+* [**G**nuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
+* [**L**UKS / cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) - [Help the project](https://gitlab.com/cryptsetup/cryptsetup/#help) [Translations](https://translationproject.org/domain/cryptsetup.html)
 * [**O**penSSH, LibreSSL, OpenNTPD, OpenSMTPD](https://www.openssh.com/) – Like the other OpenBSD sub-projects, funding is generally done via the same [donation framework](https://www.openbsd.org/donations.html).
-* [OpenSSL](https://www.openssl.org) – [Github Sponsors](https://github.com/sponsors/openssl), [Sponsors list](https://openssl-foundation.org/about/sponsors/index.html)
-* [GnuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
+* [**O**penSSL](https://www.openssl.org) – [Github Sponsors](https://github.com/sponsors/openssl), [Sponsors list](https://openssl-foundation.org/about/sponsors/index.html)
+* [**V**eracrypt](https://veracrypt.fr/en/Home.html) - [Donation page](https://veracrypt.fr/en/Donation.html) (bank transfer, paypal, crypto) [Liberapay](https://liberapay.com/VeraCrypt/donate)
+
 
 ### [VideoLan](https://www.videolan.org)
 Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free media playback
 
 [Donations with money here](https://www.videolan.org/contribute.html#money)
+
+### Code Platforms
+* [**C**odeberg](https://codeberg.org) - [Donation page](https://docs.codeberg.org/improving-codeberg/donate)
+* [**f**orgejo](https://forgejo.org) (FOSS git forge software, used by Codeberg) - [Liberapay](https://liberapay.com/forgejo)
+* [**R**adicale](https://radicle.xyz/) (decentralized git forge) - [funded by Radworks](https://radworks.org/) [Tally website where you can "connect your wallet"](https://www.tally.xyz/gov/radworks)
 
 ### Linux Distributions
 * [**A**rch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
@@ -81,6 +89,7 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 * [**K**DE Neon (KDE directly)](https://kde.org/community/donations/#money)
 * [**K**ubuntu](https://kubuntu.org/donate/)
 * [**L**inux Mint](https://www.linuxmint.com/donors.php)
+* [**P**ostmarketOS](https://opencollective.com/postmarketOS) (Linux on phones, tablets and Chromebooks)
 * [**T**AILS](https://tails.boum.org/) (privacy-centered live system) – [Wire Transfer](https://tails.boum.org/contribute/how/donate/index.en.html#swift), [PayPal](https://tails.boum.org/contribute/how/donate/index.en.html#paypal), [Bitcoin](https://tails.boum.org/contribute/how/donate/index.en.html#bitcoin), [Freedom of the Press foundation bundle](https://freedom.press/bundle/encryption-tools-journalists) (Credit Card, PayPal, Bitcoin)
 * [**Q**ubesOS](https://www.qubes-os.org/donate/)
 * [**W**honix](https://www.whonix.org/wiki/Donate)
@@ -131,30 +140,30 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 * [KeePassXC](https://keepassxc.org/) (password management, spiritual successor to KeePassX) – [Paypal, Flattr, Bitcoin, Dash, Patreon](https://keepassxc.org/donate/)
 * [**K**rita](https://krita.org/en/support-us/donations/)
 * [**L**ibreOffice](http://www.libreoffice.org/) (powerful office suite) – [Credit Card, PayPal, Bitcoin, Flattr, Wire Transfer](http://www.libreoffice.org/donate/)
-* [**L**ibrewolf](https://librewolf.net/) (no donations???)
+* [**L**ibrewolf](https://librewolf.net/) – [Core Contributors](https://librewolf.net/#core-contributors) - [maltejur](https://liberapay.com/maltejur), 
 * [**L**ynis Security Audit Tool](https://cisofy.com/pricing/) (FOSS, enterprise solutions available)
 * [**L**yX](http://www.lyx.org) (WYSIWYG LaTeX editor) – [PayPal](http://www.lyx.org/Donate)
 * [**M**umble](https://wiki.mumble.info) (VoIP conference software) – [Paypal, Bitcoin](https://wiki.mumble.info/wiki/Donate)
 * [**M**onero](https://ccs.getmonero.org/donate/)
 * [**O**BS](https://obsproject.com/contribute)
 * [GNU **O**ctave](https://octave.org/donate)
-* [**O**penAndroidInstaller](https://openandroidinstaller.org/#contribute) [Liberapay](https://liberapay.com/OpenAndroidInstaller/donate)
+* [**O**penAndroidInstaller](https://openandroidinstaller.org/#contribute) – [Liberapay](https://liberapay.com/OpenAndroidInstaller/donate)
 * [**O**penShot](http://openshot.org/) (video editing) – [PayPal](http://openshot.org/donate/)
 * [**O**penSnitch](https://patreon.com/evilsocket)
-* [**P**idgin](http://pidgin.im) (instant messaging) – ???
-* [**P**iper TTS](https://github.com/rhasspy/piper) (no Donations available)
-* [**P**inta](https://www.pinta-project.com/howto/contribute) (no donations)
+* [**P**idgin](https://pidgin.im) (instant messaging) – [donation page](https://imfreedom.org/donate/)
+* [**P**iper TTS](https://github.com/rhasspy/piper) – (no Donations available)
+* [**P**inta](https://www.pinta-project.com/howto/contribute) – (no donations)
 * [**q**Bittorrent](https://www.qbittorrent.org/donate)
-* [**Q**EMU](https://www.qemu.org/sponsors/) ([Paypal](https://paypal.com/donate/?hosted_button_id=YN74TZRMBBM6U))
+* [**Q**EMU](https://www.qemu.org/sponsors/) – ([Paypal](https://paypal.com/donate/?hosted_button_id=YN74TZRMBBM6U))
 * [**Q**Gis](https://donate.qgis.org/)
 * [**R**emmina Remote Desktop](https://remmina.org/donations/)
-* [**R**ustDesk](https://rustdesk.com/) [Github Sponsors](https://github.com/sponsors/rustdesk) [KoFi](https://ko-fi.com/I2I04VU09)
+* [**R**ustDesk](https://rustdesk.com/) – [Github Sponsors](https://github.com/sponsors/rustdesk) [KoFi](https://ko-fi.com/I2I04VU09)
 * [**S**ignal](https://signal.org/donate/)
 * [**S**impleX Chat](https://github.com/simplex-chat/simplex-chat#help-us-with-donations)
-* [**S**tirlingPDF (PDF-Editor with Web-Frontend)](https://github.com/Frooodle/Stirling-PDF) [Github Sponsors](https://github.com/sponsors/Frooodle) [Paypal](https://paypal.me/froodleplex?country.x=GB&locale.x=en_GB)
+* [**S**tirlingPDF (PDF-Editor with Web-Frontend)](https://github.com/Frooodle/Stirling-PDF) – [Github Sponsors](https://github.com/sponsors/Frooodle) [Paypal](https://paypal.me/froodleplex?country.x=GB&locale.x=en_GB)
 * [**S**yncthing](https://syncthing.net/donations/)
-* [**T**enacity (Audacity Fork)](https://codeberg.org/tenacityteam/tenacity#contributing) (no money donations yet)
-* [**T**he Document Foundation (Libreoffice)[https://libreoffice.org/donate]
+* [**T**enacity (Audacity Fork)](https://codeberg.org/tenacityteam/tenacity#contributing) – (no money donations yet)
+* [**T**he Document Foundation (Libreoffice)](https://libreoffice.org/donate)
 * [**T**hunderbird](https://feddit.de/post/thunderbird.net/donate)
 * [**T**ypst Markup Language in Rust](https://github.com/sponsors/typst)
   
@@ -172,14 +181,17 @@ Repositories
 * [**A**egis Authenticator](https://www.buymeacoffee.com/beemdevelopment)
 * [**A**nki](https://faqs.ankiweb.net/how-can-i-donate.html?highlight=donate#how-can-i-donate--contribute) (Company, no Donations but paying the iOS App or help in the Forum helps)
 * [**A**uroraStore](https://feddit.de/post/liberapay.com/whyorean)
+* [**C**onversations](https://conversations.im) (XMPP Chat) - [Professional support](https://gultsch.de), [Buy the app in the Google PlayStore](https://play.google.com/store/apps/details?id=eu.siacs.conversations). [Web hosting](https://account.conversations.im/domain)
 * [**F**edilab and lots of others](https://liberapay.com/tom79)
 * [**F**lorisBoard Patrick Gold](https://liberapay.com/patrickgold)
+* [**I**ronfox]([Donation page](https://celenity.dev/donate/)
 * [**J**erboah for Lemmy](https://github.com/dessalines/jerboa#support--donate)
 * [**M**agisk](https://github.com/topjohnwu/Magisk) (WARNING many fake websites! No Donations available)
 * [**O**SMAnd Android navigation](https://osmand.net/docs/user/purchases) (no donations but purchases)
 * [**S**impleMobileTools Tibor Kaputa](https://patreon.com/tiborkaputa)
 
 ### Online Software / Services
+* [**B**eaconDB](https://beacondb.net) (free network geolocation) - [Liberapay](https://liberapay.com/joelkoen/). Contributors: [sim6](https://gitlab.com/sim6) (freelance work), [Mikaela](https://github.com/Mikaela) (freelance work)
 * [**C**ryptPad](https://opencollective.com/cryptpad/contribute/) (Service and Software)
 * [**N**extcloud](https://nextcloud.com/contribute/) (Help wanted, no donations)
 * [**i**2p Invisible Internet Protocol](https://geti2p.net/en/get-involved) (They have a hall of fame but no donation way to be found?)
@@ -189,6 +201,22 @@ Repositories
 * [**R**iseUp](https://liberapay.com/riseup)
 * [**T**iekötter](https://www.tiekoetter.com/en/donate/) (He hosts several awesome projects like SearX)
 
+### Software Modifications
+Hardening, Forks, Configurations
+
+Firefox
+* [**B**etterfox](https://github.com/yokoffing/Betterfox) - [Github Sponsors](https://github.com/sponsors/yokoffing)
+* [**P**hoenix](https://codeberg.org/celenity/Phoenix) - [Donation page](https://celenity.dev/donate/) (Crypto, others on request)
+
+Thunderbird 
+* [**D**ove](https://dove.celenity.dev) - [Donation page](https://celenity.dev/donate/)
+* [**T**hunderbird user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - [Liberapay](https://liberapay.com/HorlogeSkynet)
+
+Safari hardening
+* [**C**elenity](https://codeberg.org/celenity/Safari-Hardening) - [Donation page](https://celenity.dev/donate/)
+
+### Websites, Information
+* [**P**rivacyGuides.org](https://privacyguides.org) - [OpenCollective](https://opencollective.com/privacyguides) [Github Sponsors](https://github.com/sponsors/privacyguides) [Donation Page](https://donate.magicgrants.org/privacyguides) [List of contributors](https://codeberg.org/privacyguides/privacyguides.org#contributors) ([Github list of contributors](https://github.com/privacyguides/privacyguides.org?tab=readme-ov-file#contributors)
 
 ### Open Hardware / Open Firmware
 * [**3**mdeb](https://3mdeb.com/) (Company, no donations but buying their Coreboot hardware helps)
@@ -202,15 +230,25 @@ Repositories
 * [**H**eads](https://osresearch.net/) [OpenCollective](https://opencollective.com/insurgo) [Github Sponsors](https://github.com/sponsors/tlaurion)
 
 ### Donation services
-* [Flattr](https://flattr.com)
-* [Liberapay](https://liberapay.com)
-* [Patreon](https://patreon.com)
-* [BuyMeACoffee](https://www.buymeacoffee.com)
-* [OpenCollective](https://opencollective.com)
-* [KoFi](https://ko-fi.com)
-* Github Sponsors (linked on repos)
+* [**B**uyMeACoffee](https://www.buymeacoffee.com)
+* [**F**lattr](https://flattr.com)
+* [**G**ithub Sponsors](https://github.com/sponsors/) (allows to see what dependencies you use. also linked on repos)
+* [**K**o-Fi](https://ko-fi.com)
+* [**L**iberapay](https://liberapay.com)
+* [**M**agic Grants](https://donate.magicgrants.org/)
+* [**O**penCollective](https://opencollective.com)
+* [**P**atreon](https://patreon.com)
+
+
+## [Donate Code](https://www.donatecode.com)
+
+## Translations!
+A lot of FOSS projects are primarily in english, you can help translate them!
+
+TODO: make a list
 
 ## ToDo
+* more android apps
 * Windows / Mac FLOSS
 * get more contributors
   * advertise!
