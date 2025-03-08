@@ -119,6 +119,7 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 * [**C**ryptsetup / LUKS](https://gitlab.com/cryptsetup/cryptsetup) (no Donation possible currently)
 * [**D**eaDBeef](http://deadbeef.sourceforge.net) (audio player) – [PayPal, Flattr](http://deadbeef.sourceforge.net/support.html)
 * [**E**asyEffects](https://github.com/wwmm/easyeffects) [Liberapay](https://liberapay.com/wwmm) [Patreon](https://patreon.com/wellingtonwallace) [PayPal](https://www.paypal.com/donate?hosted_button_id=RK723F4EKH2UE)
+* [**f**fmpeg, the cross-platform solution to record, convert and stream audio and video](https://ffmpeg.org) - [Donation page](https://ffmpeg.org/donations.html)
 * [Mozilla **F**irefox](https://www.mozilla.org/firefox/) [Donation to Mozilla Foundation](https://foundation.mozilla.org/donate) (indirectly to Firefox, as the Corporation is managing it)
 * [**F**reeTube](https://freetubeapp.io/) [Liberapay](https://liberapay.com/FreeTube) [BTC](bitcoin:1Lih7Ho5gnxb1CwPD4o59ss78pwo2T91eS) [Monero XMR](monero:48WyAPdjwc6VokeXACxSZCFeKEXBiYPV6GjfvBsfg4CrUJ95LLCQSfpM9pvNKy5GE5H4hNaw99P8RZyzmaU9kb1pD7kzhCB)
 * [**F**reeplane Mindmap Tool](https://docs.freeplane.org/contribute/contribute.html) (No money donations but help in Forums wanted)
