@@ -1,70 +1,69 @@
-## Financing projects/organizations
+# Awesome Donations
 
-### Free Software Foundation
+A list of organizations, projects, tools, apps, websites and developers that you can support financially.
 
-> The [Free Software Foundation][FSF] (FSF) is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.
+Please add your favourite software to the list!
 
-- [Donate][Donate-FSF].
-    - Supported methods include: check, credit card, debit card, Paypal,
-      Flattr, Bitcoin, Litecoin and [others][Donate-FSF-other].
+### [Free Software Foundation](http://www.fsf.org)
 
-[FSF]:              http://www.fsf.org/
-[Donate-FSF]:       http://www.fsf.org/donate/
-[Donate-FSF-other]: https://my.fsf.org/donate/other/
+> The Free Software Foundation is a nonprofit with a worldwide mission to promote computer user freedom and to defend the rights of all free software users.
 
-### The Linux Foundation
-https://www.linuxfoundation.org/about/donate
+- [Donate](http://www.fsf.org/donate/), check, credit card, debit card, Paypal, Flattr, Bitcoin, Litecoin
+- [others](https://my.fsf.org/donate/other/)
 
-Europe:
+### [The Linux Foundation](https://www.linuxfoundation.org)
 
-https://linuxfoundation.eu
+> [!NOTE]
+> Donations don't fully go to the Linux kernel!
+> The Linux kernel is just one of the things they fund. [Source](https://www.linuxfoundation.org/about/donate)
 
-### Open Source Initiative
+[Donation](https://www.linuxfoundation.org/about/donate)
 
-> The [Open Source Initiative](http://opensource.org) (OSI) is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
+[Europe Website](https://linuxfoundation.eu)
 
-* [Donate](http://opensource.org/donate), [Flattr](https://flattr.com/thing/448050/Open-Source-Initiative-OSI)
+### [Open Source Initiative](http://opensource.org)
 
-### Software Freedom Conservancy
+> The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
 
-> [Software Freedom Conservancy][SFC] is a not-for-profit organization that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects. Conservancy provides a non-profit home and infrastructure for FLOSS projects. This allows FLOSS developers to focus on what they do best — writing and improving FLOSS for the general public — while Conservancy takes care of the projects' needs that do not relate directly to software development and documentation.
+* [Donate](http://opensource.org/donate)
+* [Flattr](https://flattr.com/thing/448050/Open-Source-Initiative-OSI)
 
-- [Donate][Donate-SFC].
-    - Supported methods include: check, Paypal, Flattr and wire transfer.
+### [Software Freedom Conservancy](https://sfconservancy.org)
 
-[SFC]:        https://sfconservancy.org/
-[Donate-SFC]: https://sfconservancy.org/donate/
+> The Software Freedom Conservancy is a not-for-profit organization that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects. Conservancy provides a non-profit home and infrastructure for FLOSS projects. This allows FLOSS developers to focus on what they do best — writing and improving FLOSS for the general public — while Conservancy takes care of the projects' needs that do not relate directly to software development and documentation.
 
-### Software Freedom Law Center
+- [Donate](https://sfconservancy.org/donate), check, Paypal, Flattr and wire transfer
 
-> The [Software Freedom Law Center][SFLC] provides pro-bono legal services to developers of Free, Libre, and Open Source Software.
+### [Software Freedom Law Center](https://www.softwarefreedom.org)
 
-- [Donate][Donate-SFLC].
-    - Supported methods include: check, Network for Good (U.S. only), Paypal
-      and Flattr.
+> The Software Freedom Law Center provides pro-bono legal services to developers of Free, Libre, and Open Source Software.
 
-[SFLC]:        https://www.softwarefreedom.org/
-[Donate-SFLC]: https://www.softwarefreedom.org/donate/
+- [Donate](https://www.softwarefreedom.org/donate) Supported methods include: check, Network for Good (U.S. only), Paypal and Flattr.
 
-### Mozilla Foundation
-* [donate via PayPal / Credit Card](https://sendto.mozilla.org)
-* [Bitcoin](https://sendto.mozilla.org/page/content/give-bitcoin/)
-* [Cheque](https://wiki.mozilla.org/Ways_to_Give#Check_.28via_postal_service.29)
-* [Bank Transfer](https://wiki.mozilla.org/Ways_to_Give#Bank_Transfer)
+### [Mozilla Foundation](https://mozilla.org)
 
-### Tor Project
+> [!WARNING]
+> This is not the same as the company making the Firefox browser or the Thunderbird mail app!
+> If you want to donate to Thunderbird, [do it here](https://www.thunderbird.net/donate)
+> There is no way to donate to Firefox currently. Annoy [Firefox](https://bsky.app/profile/firefox.com) or [Mozilla](https://bsky.app/profile/mozilla.org) on Bluesky.
+
+* donate: [PayPal / Credit Card](https://sendto.mozilla.org), [Bitcoin](https://sendto.mozilla.org/page/content/give-bitcoin/), [Cheque](https://wiki.mozilla.org/Ways_to_Give#Check_.28via_postal_service.29), [Bank Transfer](https://wiki.mozilla.org/Ways_to_Give#Bank_Transfer)
+
+### [Tor Project](torproject.org)
 Creators of tor, Tor-Browser, OnionShare, Orbot and more
 
-[Donation Website](https://donate.torproject.org/)
+- [Donation Website](https://donate.torproject.org/) (no onion address)
+- Donations via Crypto accepted: BTC, DOGE, ETH, XMR, LTC, XLM, ZEC (possibly incomplete)
 
-### Software in the public interest
-> [SPI](http://www.spi-inc.org/) is a non-profit organization which was founded to help organizations develop and distribute open hardware and software. [...]
+### [Software in the public interest](https://www.spi-inc.org)
+> SPI is a non-profit organization which was founded to help organizations develop and distribute open hardware and software.
+> They act as a fiscal sponsor to many free and open source projects.
 
-> SPI acts as a fiscal sponsor to many free and open source projects.
+* Donate:
+    * [click & pledge to SPI projects](https://co.clickandpledge.com/advanced)
+    * [Website to donate to the whole organization](https://www.spi-inc.org/donations/)
 
-* [Donate via click & pledge to SPI projects](https://co.clickandpledge.com/advanced/default.aspx?wid=34115)
-
-### critical infrastructure software
+### Critical Infrastructure Software
 * [**G**nuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
 * [**L**UKS / cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) - [Help the project](https://gitlab.com/cryptsetup/cryptsetup/#help) [Translations](https://translationproject.org/domain/cryptsetup.html)
 * [**O**penSSH, LibreSSL, OpenNTPD, OpenSMTPD](https://www.openssh.com/) – Like the other OpenBSD sub-projects, funding is generally done via the same [donation framework](https://www.openbsd.org/donations.html).
@@ -92,6 +91,11 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 * [**P**ostmarketOS](https://opencollective.com/postmarketOS) (Linux on phones, tablets and Chromebooks)
 * [**T**AILS](https://tails.boum.org/) (privacy-centered live system) – [Wire Transfer](https://tails.boum.org/contribute/how/donate/index.en.html#swift), [PayPal](https://tails.boum.org/contribute/how/donate/index.en.html#paypal), [Bitcoin](https://tails.boum.org/contribute/how/donate/index.en.html#bitcoin), [Freedom of the Press foundation bundle](https://freedom.press/bundle/encryption-tools-journalists) (Credit Card, PayPal, Bitcoin)
 * [**Q**ubesOS](https://www.qubes-os.org/donate/)
+* **U**buntu (these projects are semi-independent from Ubuntu and take donations)
+    * [**L**ubuntu](https://lubuntu.me) - [Donation page](https://lubuntu.me/donate), [Patreon](https://www.patreon.com/lubuntu), [Liberapay](https://liberapay.com/lubuntu), [Paypal](https://www.paypal.me/LubuntuAssociation), [TeeSpring purchases](https://teespring.com/stores/lubuntu) - ⚠️ WARNING, lubuntu.net is a fake website, lubuntu.me is the real one
+    * [**U**bports](https://ubports.com) (porting Ubuntu to phones and more) - [Shop, including donations](https://ubports.com/en/shop)
+    * [**U**buntu Unity](https://ubuntuunity.org) - no donations currently
+    * [**X**ubuntu](https://xubuntu.org) - [Donation page](https://xubuntu.org/donations)
 * [**W**honix](https://www.whonix.org/wiki/Donate)
 * [**X**ubuntu](http://xubuntu.org) - [Bountysource](https://www.bountysource.com/teams/xfce), [Unixstickers](http://www.unixstickers.com/tag/xubuntu), [Canonical (Paypal)](http://www.ubuntu.com/download/desktop/contribute), [time](http://xubuntu.org/contribute/)
 
@@ -99,22 +103,25 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 
 * [**C**alyxOS](https://members.calyxinstitute.org/donate)
 * [**D**ivestOS](https://divested.dev/donate)
-* [**G**rapheneOS](https://grapheneos.org/donate) (they also maintain the hardened kernel and malloc)
+* [**G**rapheneOS](https://grapheneos.org/donate)
 * [**I**odeOS](https://iode.tech/donations/)
-* [**L**ineageOS](lineageos.org) ([Paypal}(https://paypal.me/LineageOS)) ([Patreon](https://patreon.com/LineageOS))
+* [**L**ineageOS](lineageos.org) - [Paypal](https://paypal.me/LineageOS), ([Patreon](https://patreon.com/LineageOS)
 
 #### Unix-like:
-* [**R**edox-OS](https://www.redox-os.org/donate/)
+* [**R**edox-OS](https://www.redox-os.org/donate)
 
 #### Hardware Donations:
 * [**F**edora Project](https://fedoraproject.org/)
-* [**O**penSuse](opensuse.org) ([Send them a mail](mailto:donations@opensuse.org?subject=Hardware Donations)
+* [**O**penSuse](opensuse.org) (Send them a mail at donations@opensuse.org)
 
 ### Linux Desktops
 * [**B**udgie](https://opencollective.com/buddies-of-budgie)
-* [**G**NOME](https://www.gnome.org/donate/)
-* [**K**DE](https://kde.org/community/donations/)
-* [**X**FCE](https://docs.xfce.org/contribute/start#financial_contributions)
+* [**G**NOME](https://www.gnome.org/donate)
+* [**K**DE Plasma](https://kde.org/community/donations)
+* [**L**omiri](https://lomiri.com/) (Desktop based on Ubuntu's Unity) - see "ubports" under [Linux Distributions](#linux-distributions)
+* [**L**XQt](https://lxqt-project.org) - [OpenCollective Page](https://opencollective.com/lxqt)
+* [**M**ate](https://mate-desktop.org/) - [Donation Page](https://mate-desktop.org/donate/) (Paypal, BTC), [Ubuntu Mate](https://ubuntu-mate.org/funding)
+* [**X**FCE](https://xfce.org) - [Donation Page](https://docs.xfce.org/contribute/start#financial_contributions)
 
 ### Linux Software
 * [**A**rdour DAW](https://community.ardour.org/donate)
@@ -154,8 +161,8 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 * [**P**iper TTS](https://github.com/rhasspy/piper) – (no Donations available)
 * [**P**inta](https://www.pinta-project.com/howto/contribute) – (no donations)
 * [**q**Bittorrent](https://www.qbittorrent.org/donate)
-* [**Q**EMU](https://www.qemu.org/sponsors/) – ([Paypal](https://paypal.com/donate/?hosted_button_id=YN74TZRMBBM6U))
-* [**Q**Gis](https://donate.qgis.org/)
+* [**Q**EMU](https://www.qemu.org/sponsors/) – [Paypal](https://paypal.com/donate/?hosted_button_id=YN74TZRMBBM6U)
+* [**Q**Gis](https://donate.qgis.org)
 * [**R**emmina Remote Desktop](https://remmina.org/donations/)
 * [**R**ustDesk](https://rustdesk.com/) – [Github Sponsors](https://github.com/sponsors/rustdesk) [KoFi](https://ko-fi.com/I2I04VU09)
 * [**S**ignal](https://signal.org/donate/)
@@ -173,22 +180,28 @@ Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free medi
 * [**O**penWifi](https://openwifi.tip.build/) [Apply for Membership](https://telecominfraproject.com/apply-for-membership/)
 
 ### Android Software
-Repositories
-* [**F**-Droid](https://f-droid.org/donate/)https://www.qbittorrent.org/donate
-* [**I**zzysoft](android.izzysoft.de/) (no Donation possibl
-* [**M**obilsicher](https://mobilsicher.de/spenden) (they host a repo with "ethical" critical proprietary software and are active)
+
+Repositories & Tools
+
+* [**A**ccrescent](https://accrescent.app) (a security-focused store, aiming to be an alternative to Google Play) - [Donation Page](https://accrescent.app/donate) (Taproot, XMR, ETH, SegWit), [Github Sponsors](https://github.com/sponsors/accrescent)
+* [**A**uroraStore](https://auroraoss.com) (Free Google PlayStore Client) - [Liberapay](https://liberapay.com/whyorean)
+* [**F**-Droid](https://f-droid.org) - [Donation page](https://f-droid.org/donate)
+* [**I**zzyOnDroid](android.izzysoft.de/) - [OpenCollective](https://opencollective.com/izzyondroid), [Services by the developer](https://www.izzysoft.de/services)
+* [**O**btainium](https://obtainium.imranr.dev) (A tool to get apps from various sources) - [Github Sponsors](https://github.com/sponsors/ImranR98), [Ko-Fi](https://ko-fi.com/imranr), [Monero XMR](https://imranr.dev/monero-address)
+
+Apps
 
 * [**A**egis Authenticator](https://www.buymeacoffee.com/beemdevelopment)
 * [**A**nki](https://faqs.ankiweb.net/how-can-i-donate.html?highlight=donate#how-can-i-donate--contribute) (Company, no Donations but paying the iOS App or help in the Forum helps)
-* [**A**uroraStore](https://feddit.de/post/liberapay.com/whyorean)
 * [**C**onversations](https://conversations.im) (XMPP Chat) - [Professional support](https://gultsch.de), [Buy the app in the Google PlayStore](https://play.google.com/store/apps/details?id=eu.siacs.conversations). [Web hosting](https://account.conversations.im/domain)
 * [**F**edilab and lots of others](https://liberapay.com/tom79)
 * [**F**lorisBoard Patrick Gold](https://liberapay.com/patrickgold)
+* [**F**ossify Apps](https://github.com/FossifyOrg) (SimpleMobileTools Fork) - [Github Sponsors](https://github.com/sponsors/FossifyOrg), Main Maintainer: [Github Sponsors](https://github.com/sponsors/naveensingh), [Patreon](https://patreon.com/naveen3singh), [Liberapay](https://liberapay.com/naveensingh), [Paypal](https://paypal.me/naveen3singh) (or search for "naveen3singh" to avoid fees)
 * [**I**ronfox]([Donation page](https://celenity.dev/donate/)
 * [**J**erboah for Lemmy](https://github.com/dessalines/jerboa#support--donate)
-* [**M**agisk](https://github.com/topjohnwu/Magisk) (WARNING many fake websites! No Donations available)
+* [**M**agisk](https://github.com/topjohnwu/Magisk) (WARNING many fake websites!) (No Donations), [Github Sponsor of "diareuse"](https://github.com/sponsors/diareuse), [Github Sponsor of "yujincheng"](https://github.com/sponsors/yujincheng08), [Github Sponsor of "osm0sis"](https://github.com/sponsors/osm0sis)
 * [**O**SMAnd Android navigation](https://osmand.net/docs/user/purchases) (no donations but purchases)
-* [**S**impleMobileTools Tibor Kaputa](https://patreon.com/tiborkaputa)
+* [**S**impleMobileTools Tibor Kaputa](https://patreon.com/tiborkaputa) - SMT was sold as he didn't get enough donations. You can still donate to him. [Fossify is the continued fork](https://github.com/FossifyOrg)
 
 ### Online Software / Services
 * [**B**eaconDB](https://beacondb.net) (free network geolocation) - [Liberapay](https://liberapay.com/joelkoen/). Contributors: [sim6](https://gitlab.com/sim6) (freelance work), [Mikaela](https://github.com/Mikaela) (freelance work)
@@ -207,6 +220,7 @@ Hardening, Forks, Configurations
 Firefox
 * [**B**etterfox](https://github.com/yokoffing/Betterfox) - [Github Sponsors](https://github.com/sponsors/yokoffing)
 * [**P**hoenix](https://codeberg.org/celenity/Phoenix) - [Donation page](https://celenity.dev/donate/) (Crypto, others on request)
+* [**T**orproject](https://torproject.org) (many privacy improvements and hardening) - [see above](#tor-project)
 
 Thunderbird 
 * [**D**ove](https://dove.celenity.dev) - [Donation page](https://celenity.dev/donate/)
