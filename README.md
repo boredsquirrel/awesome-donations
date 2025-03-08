@@ -201,10 +201,13 @@ Repositories
 * [**H**eads](https://osresearch.net/) [OpenCollective](https://opencollective.com/insurgo) [Github Sponsors](https://github.com/sponsors/tlaurion)
 
 ### Donation services
-* [Flattr](https://flattr.com/)
-* [Liberapay](https://liberapay.com/)
+* [Flattr](https://flattr.com)
+* [Liberapay](https://liberapay.com)
 * [Patreon](https://patreon.com)
+* [BuyMeACoffee](https://www.buymeacoffee.com)
+* [OpenCollective](https://opencollective.com)
 * [KoFi](https://ko-fi.com)
+* Github Sponsors (linked on repos)
 
 ## ToDo
 * Windows / Mac FLOSS
@@ -215,4 +218,3 @@ Repositories
 * Ubuntu/Canonical
   * Ubuntu-based distributions (~~Xubuntu~~, Lubuntu, ...)
 * Slackware
-
