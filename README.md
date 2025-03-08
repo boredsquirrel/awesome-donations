@@ -66,7 +66,7 @@ Creators of tor, Tor-Browser, OnionShare, Orbot and more
 
 ### critical infrastructure software
 * [**O**penSSH, LibreSSL, OpenNTPD, OpenSMTPD](https://www.openssh.com/) – Like the other OpenBSD sub-projects, funding is generally done via the same [donation framework](https://www.openbsd.org/donations.html).
-* [OpenSSL](https://www.openssl.org) – [Yearly donations](https://www.openssl.org/support/donations.html) starting at $5000.
+* [OpenSSL](https://www.openssl.org) – [Github Sponsors](https://github.com/sponsors/openssl), [Sponsors list](https://openssl-foundation.org/about/sponsors/index.html)
 * [GnuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
 
 ### [VideoLan](https://www.videolan.org)
