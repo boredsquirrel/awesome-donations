@@ -69,7 +69,7 @@ Creators of tor, Tor-Browser, OnionShare, Orbot and more
 * [OpenSSL](https://www.openssl.org) – [Yearly donations](https://www.openssl.org/support/donations.html) starting at $5000.
 * [GnuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
 
-### [VideoLan](https://www.videolan.org]
+### [VideoLan](https://www.videolan.org)
 Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free media playback
 
 [Donations with money here](https://www.videolan.org/contribute.html#money)
