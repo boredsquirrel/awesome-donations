@@ -1,8 +1,3 @@
-# donatisto
-A repository of FLOSS donation options, sorted A-Z.
-
-Feel free to create pull requests (three projects or more). You can also send them via Jabber or eMail [to me](http://phre4k.at).
-
 ## Financing projects/organizations
 
 ### Free Software Foundation
@@ -73,6 +68,11 @@ Creators of tor, Tor-Browser, OnionShare, Orbot and more
 * [**O**penSSH, LibreSSL, OpenNTPD, OpenSMTPD](https://www.openssh.com/) – Like the other OpenBSD sub-projects, funding is generally done via the same [donation framework](https://www.openbsd.org/donations.html).
 * [OpenSSL](https://www.openssl.org) – [Yearly donations](https://www.openssl.org/support/donations.html) starting at $5000.
 * [GnuPG](https://gnupg.org/) (Encryption) – [credit card, Paypal, and SEPA transactions](https://gnupg.org/donate/)
+
+### [VideoLan](https://www.videolan.org]
+Developing VLC on all platforms, libdvdcss, x264, x265. Critically for free media playback
+
+[Donations with money here](https://www.videolan.org/contribute.html#money)
 
 ### Linux Distributions
 * [**A**rch Linux](https://www.archlinux.org/) – [click & pledge](https://co.clickandpledge.com/advanced/default.aspx?wid=47294)
