@@ -44,13 +44,15 @@ Please add your favourite software to the list!
 
 > [!WARNING]
 > This is not the same as the company making the Firefox browser or the Thunderbird mail app!
+> 
 > If you want to donate to Thunderbird, [do it here](https://www.thunderbird.net/donate)
+> 
 > There is no way to donate to Firefox currently. Annoy [Firefox](https://bsky.app/profile/firefox.com) or [Mozilla](https://bsky.app/profile/mozilla.org) on Bluesky.
 
 * donate: [PayPal / Credit Card](https://sendto.mozilla.org), [Bitcoin](https://sendto.mozilla.org/page/content/give-bitcoin/), [Cheque](https://wiki.mozilla.org/Ways_to_Give#Check_.28via_postal_service.29), [Bank Transfer](https://wiki.mozilla.org/Ways_to_Give#Bank_Transfer)
 
 ### [Tor Project](torproject.org)
-Creators of tor, Tor-Browser, OnionShare, Orbot and more
+Creators of the Tor Network, the Firefox-based Tor-Browser, OnionShare and more
 
 - [Donation Website](https://donate.torproject.org/) (no onion address)
 - Donations via Crypto accepted: BTC, DOGE, ETH, XMR, LTC, XLM, ZEC (possibly incomplete)
